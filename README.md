@@ -1,2 +1,0 @@
-# rixetbd.github.io
-test
