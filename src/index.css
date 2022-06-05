@@ -60,7 +60,8 @@ h1{
 }
 
 section{
-    margin-top: 8rem;
+    padding-top: 8rem;
+    /* margin-top: 8rem; */
     height: 100vh;
 }
 
@@ -124,7 +125,7 @@ a:hover{
         width: var(--container-width-md);
     }
     section{
-        margin-top: 6rem;
+        padding-top: 6rem;
     }
 }
 /* *********************** End Media Queries ( Medium Device ) *********************** */
@@ -139,6 +140,3 @@ a:hover{
     }
 }
 /* *********************** End Media Queries ( Medium Device ) *********************** */
-
-
-/* https://youtu.be/G-Cr00UYokU?t=4938 */
