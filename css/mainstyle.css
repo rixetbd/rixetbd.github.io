@@ -22,3 +22,10 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
+
+  .mright-2{
+    margin-right: .25rem;
+  }
+  .art-el-date{
+    margin: 5px;
+  }
